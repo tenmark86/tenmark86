@@ -10,7 +10,6 @@ I am a  (Full Stack Software Developer 🌐, Web Developer 📱|Cloud Engineer|C
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/Test/main/techstack.gif?token=AG7JKS4OHURB2NY3WGQPJKLAALVWM" width="360px"/>
 
 ### 🧐 More About Me:
 
