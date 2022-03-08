@@ -21,6 +21,7 @@ I am a  (Full Stack Software Developer 🌐, Web Developer 📱|Cloud Engineer|C
 - 📚 When I am free, I love plaing video games add me up on PSN ID:tenmark86)
 
 ### Languages and Tools:
+
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="32px" style="margin-bottom: 4px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="32px" style="margin-bottom: 4px;"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> </a>
