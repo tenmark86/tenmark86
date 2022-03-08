@@ -10,6 +10,8 @@ I am a  (Full Stack Software Developer 🌐, Web Developer 📱|Cloud Engineer|C
 <br/>
 <br/>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/Test/main/techstack.gif?token=AG7JKS4OHURB2NY3WGQPJKLAALVWM" width="360px"/>
+
 ### 🧐 More About Me:
 
 - 🔭 I’m currently working on **Airline mngmt System**
@@ -18,7 +20,7 @@ I am a  (Full Stack Software Developer 🌐, Web Developer 📱|Cloud Engineer|C
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/tenmark86)
 - 💬 Ask me about anything tech related, I am happy to help;
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mark-mutuota-b70a4a94/)
-- 📚 When I am free, I love plaing video games add me up on PSN ID:tenmark86)
+- 📚 When I am free, I love playing video games add me up on PSN ID:tenmark86)
 
 ### Languages and Tools:
 
