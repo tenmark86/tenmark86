@@ -2,8 +2,8 @@
 ![gitartwork](gitartwork.svg)
 
 ## Hey 👋, I'm Mark Mutuota!
-<a href='https://www.linkedin.com/in/mark-mutuota-b70a4a94/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/Test/main/assets/linkedin.svg?token=AG7JKS62YRW6ABOPCED4RSDAALUJO" height='18px'/></a>
-<a href='https://twitter.com/Mark_mutuota/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/Test/main/assets/twitter.svg?token=AG7JKS4YDN2X3TGCUOOBGHDAALUJS" height='18px'/></a>
+<a href='https://www.linkedin.com/in/mark-mutuota-b70a4a94/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/tenmark86/Test/main/assets/linkedin.svg?token=AG7JKS62YRW6ABOPCED4RSDAALUJO" height='18px'/></a>
+<a href='https://twitter.com/Mark_mutuota/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/tenmark86/Test/main/assets/twitter.svg?token=AG7JKS4YDN2X3TGCUOOBGHDAALUJS" height='18px'/></a>
 
 
 I am a  (Full Stack Software Developer 🌐, Web Developer 📱|Cloud Engineer|Cybersecurity CISSP) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
