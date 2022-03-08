@@ -35,6 +35,8 @@ a href="https://www.java.com" target="_blank"><img align="left" alt="Kotlin" hei
 
 a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" style="margin-bottom: 4px;" alt="git" height='32px'/> </a>
 
+
+
 [![tenmark's github activity graph](https://activity-graph.herokuapp.com/graph?username=tenmark86&theme=react-dark)](https://github.com/tenmark86/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
