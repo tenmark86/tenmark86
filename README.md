@@ -14,7 +14,7 @@ I am a  (Full Stack Software Developer 🌐, Web Developer 📱|Cloud Engineer|C
 ### 🧐 More About Me:
 
 - 🔭 I’m currently working on **Airline mngmt System**
-- 🤝 I’m looking to collaborate with like minded software Engineers on various projects in interest on Artificiakl INtelligence(AI)
+- 🤝 I’m looking to collaborate with like minded software Engineers on various projects in interest on Artificial Intelligence(AI)
 - 🌱 I’m currently learning Typescript; 
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/tenmark86)
 - 💬 Ask me about anything tech related, I am happy to help;
