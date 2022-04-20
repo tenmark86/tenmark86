@@ -32,11 +32,7 @@ I am a  (Full Stack Software Developer 🌐, Web Developer 📱|Cloud Engineer|C
 <a href="https://vuejs.org/" target="_blank"><img align="left" alt="Vue" height ="32px" style="margin-bottom: 4px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a>
 
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="32px" style="margin-bottom: 4px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>
-
-
-
 # GITHUB ANALYTICS
-
 [![tenmark's github activity graph](https://activity-graph.herokuapp.com/graph?username=tenmark86&theme=react-dark)](https://github.com/tenmark86/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
