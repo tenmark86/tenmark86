@@ -8,9 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tenmark86&label=Profile%20views&color=0e75b6&style=flat" alt="tenmark86" /> </p>
 
 
-I am a  (Full Stack Software Developer 🌐, Web Developer 📱|Cloud Engineer|Cybersecurity CISSP) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
-<br/>
 
 
 ### 🧐 More About Me:
