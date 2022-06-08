@@ -1,5 +1,5 @@
  [![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)]()
-  [![MasterHead](https://i.pinimg.com/originals/d5/dd/ec/d5ddec7410d36fd1bd165d151cf818b6.gif)]()
+ [![MasterHead](https://i.pinimg.com/originals/d5/dd/ec/d5ddec7410d36fd1bd165d151cf818b6.gif)]()
  
 ![gitartwork](gitartwork.svg)
 <h1 align="center">Hi 👋, Iam Mark Mutuota</h1>
