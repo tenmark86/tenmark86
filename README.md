@@ -1,4 +1,4 @@
- [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+ [![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)]()
  
 ![gitartwork](gitartwork.svg)
 <h1 align="center">Hi 👋, Iam Mark Mutuota</h1>
