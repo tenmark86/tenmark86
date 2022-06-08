@@ -2,7 +2,6 @@
 ![gitartwork](gitartwork.svg)
 <h1 align="center">Hi 👋, Mark Mutuota</h1>
 <h3 align="center">A Full stack/Data Scientist/blockchain developer</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tenmark86&label=Profile%20views&color=0e75b6&style=flat" alt="tenmark86" /> </p>
 
