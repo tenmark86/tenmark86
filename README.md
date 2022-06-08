@@ -19,7 +19,7 @@
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/tenmark86)
 - 💬 Ask me about anything tech related, I am happy to help;
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mark-mutuota-b70a4a94/), Email: ```tenmark86@gmail.com```
-- 📚 When I am free, I love playing video games add me up on PSN ID:tenmark86)
+- 📚 When I am free, I love playing video games add me up on PSN ID:```tenmark86```)
 
 
 <h3 align="left">Languages and Tools:</h3>
