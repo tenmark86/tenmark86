@@ -13,7 +13,7 @@
 
 ### 🧐 More About Me:
 
-- 🔭 I’m currently working on **Airline mngmt System**
+- 🔭 I’m currently working on **Airline mngmt System** & **Holberton School Projects**
 - 🤝 I’m looking to collaborate with like minded software Engineers on various projects in interest on Artificial Intelligence(AI)
 - 🌱 I’m currently learning Typescript; 
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/tenmark86)
