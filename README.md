@@ -1,6 +1,7 @@
+ [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
  
 ![gitartwork](gitartwork.svg)
-<h1 align="center">Hi 👋, Mark Mutuota</h1>
+<h1 align="center">Hi 👋, Iam Mark Mutuota</h1>
 <h3 align="center">A Full stack/Data Scientist/blockchain developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tenmark86&label=Profile%20views&color=0e75b6&style=flat" alt="tenmark86" /> </p>
