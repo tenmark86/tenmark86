@@ -1,5 +1,4 @@
  [![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)]()
- <img align="center" alt="Coding" width="1000" src="https://miro.medium.com/max/1000/1*2ZPevqo8Q1HARrTluyVibA.gif"/>
  
 ![gitartwork](gitartwork.svg)
 <h1 align="center">Hi 👋, Iam Mark Mutuota</h1>
@@ -14,7 +13,7 @@
 
 ### 🧐 More About Me:
 
-- 🔭 I’m currently working on **Airline mngmt System** & **Holberton School Projects**
+- 🔭 I’m currently working on **Airline mngmt System** & **ALX SE & Holberton School Projects**
 - 🤝 I’m looking to collaborate with like minded software Engineers on various projects in interest on Artificial Intelligence(AI)
 - 🌱 I’m currently learning Typescript; 
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/tenmark86)
