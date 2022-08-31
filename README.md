@@ -58,7 +58,7 @@
 -->
 
 <!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tenmark86&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tenmark86&skills=JavaScript,CSS,PHP,Shell,Python,C,EJS,HTML,Visual Basic .NET" width="auto"></img>
 
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
