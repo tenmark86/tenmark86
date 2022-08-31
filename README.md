@@ -47,10 +47,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenmark86&langs_count=8)](https://github.com/tenmark86/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tenmark86&" alt="tenmark86" /></p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tenmark86"></img>
-
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!--   grid-snake -->
+![](https://github.com/tenmark86/tenmark86/blob/output/github-contribution-grid-snake.svg)
 
 
 
