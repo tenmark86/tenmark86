@@ -53,9 +53,13 @@
 <!--   grid-snake -->
 ![](https://github.com/tenmark86/tenmark86/blob/output/github-contribution-grid-snake.svg)
 
-<!--   skyline 
+<!- skyline 
 <a href="https://skyline.github.com/tenmark86/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 -->
+
+<!--  2d history skills -->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tenmark86&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
+
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
