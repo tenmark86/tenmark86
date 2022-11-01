@@ -41,14 +41,9 @@
 
 
 # GITHUB ANALYTICS
-[![tenmark's github activity graph](https://activity-graph.herokuapp.com/graph?username=tenmark86&theme=react-dark)](https://github.com/tenmark86/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenmark86&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenmark86&langs_count=8)](https://github.com/tenmark86/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tenmark86&" alt="tenmark86" /></p>
 
  <h2 align="center">⚡ Stats ⚡</h2>
 <br>
