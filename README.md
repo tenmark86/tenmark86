@@ -50,6 +50,56 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenmark86&langs_count=8)](https://github.com/tenmark86/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tenmark86&" alt="tenmark86" /></p>
 
+ <h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tenmark86&theme=react&border=61dafb&hide_border=true" alt="tenmark86" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=tenmark86&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenmark86&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=tenmark86&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+<!-- <h2 align="center">
+ Stats
+ </h2>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tenmark86&show_icons=true&theme=radical" /> 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenmark86&layout=compact" />  -->
+ 
+<!--  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tenmark86&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  -->
+
+
+<br />
+<br />
+ 
+<!--  ### :hammer_and_wrench: Languages and Tools :
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git Image" width="40" height="40"/>&nbsp; -->
+ 
+ 
+ 
+<!--  <h2 align="center">📈 Activity</h2>
+<a href="https://github.com/tenmark86/github-readme-activity-graph"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=tenmark86&theme=material-palenight" /> </a>
+<br /> -->
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=olagodavid&cover_image=true&theme=novatorem&bar_color=4e51b1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=olagodavid&redirect=true) -->
+
+
+
+
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://twitter.com/Mark_mutuota" target="blank"><img align="center" src="https://raw.githubusercontent.com/tenmark86/tenmark86/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
