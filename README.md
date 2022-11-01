@@ -50,6 +50,24 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenmark86&langs_count=8)](https://github.com/tenmark86/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tenmark86&" alt="tenmark86" /></p>
 
+**📫 How to Reach me:**
+<p align="left">
+<a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/tenmark86/tenmark86/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/mark-mutuota-b70a4a94/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tenmark86/tenmark86/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="mailto:tenmark86@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tenmark86/tenmark86/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://api.whatsapp.com/send?phone=+254717618988" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+</p>
+
+<div align="center">
+<summary>:trophy: Github Profile Trophy</summary>
+</div>
+
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BEPb" alt="tenmark86" /></a>
+</p>
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
