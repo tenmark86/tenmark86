@@ -2,7 +2,7 @@
  
 ![gitartwork](gitartwork.svg)
 <h1 align="center">Hi 👋, Iam Mark Mutuota</h1>
-<h3 align="center">“Fullstack + Blockchain Developer | Building dApps & Modern Web3 Solutions”
+<h3 align="center">“AI Fullstack + Blockchain Developer | Building AI dApps & Modern Web3 Solutions” 
  /</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/296/2968.gif"/>
 
